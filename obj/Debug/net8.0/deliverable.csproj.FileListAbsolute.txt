@@ -1,0 +1,14 @@
+C:\Users\IeshaRamos\documents\Jess_deliverable\deliverable\bin\Debug\net8.0\deliverable.exe
+C:\Users\IeshaRamos\documents\Jess_deliverable\deliverable\bin\Debug\net8.0\deliverable.deps.json
+C:\Users\IeshaRamos\documents\Jess_deliverable\deliverable\bin\Debug\net8.0\deliverable.runtimeconfig.json
+C:\Users\IeshaRamos\documents\Jess_deliverable\deliverable\bin\Debug\net8.0\deliverable.dll
+C:\Users\IeshaRamos\documents\Jess_deliverable\deliverable\bin\Debug\net8.0\deliverable.pdb
+C:\Users\IeshaRamos\documents\Jess_deliverable\deliverable\obj\Debug\net8.0\deliverable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IeshaRamos\documents\Jess_deliverable\deliverable\obj\Debug\net8.0\deliverable.AssemblyInfoInputs.cache
+C:\Users\IeshaRamos\documents\Jess_deliverable\deliverable\obj\Debug\net8.0\deliverable.AssemblyInfo.cs
+C:\Users\IeshaRamos\documents\Jess_deliverable\deliverable\obj\Debug\net8.0\deliverable.csproj.CoreCompileInputs.cache
+C:\Users\IeshaRamos\documents\Jess_deliverable\deliverable\obj\Debug\net8.0\deliverable.dll
+C:\Users\IeshaRamos\documents\Jess_deliverable\deliverable\obj\Debug\net8.0\refint\deliverable.dll
+C:\Users\IeshaRamos\documents\Jess_deliverable\deliverable\obj\Debug\net8.0\deliverable.pdb
+C:\Users\IeshaRamos\documents\Jess_deliverable\deliverable\obj\Debug\net8.0\deliverable.genruntimeconfig.cache
+C:\Users\IeshaRamos\documents\Jess_deliverable\deliverable\obj\Debug\net8.0\ref\deliverable.dll
